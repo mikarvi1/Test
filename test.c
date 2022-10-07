@@ -9,7 +9,7 @@ struct abc test;
 
 int main (void)
 {
-   printf("Testing");
+   printf("Release");
 //   return 1;
 }
 
